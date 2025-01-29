@@ -37,6 +37,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil0707&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&custom_title=Languages%20Worked%20Upon" height="150" alt="languages graph"  />
 </div>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil0707&" alt="sahil0707" /></p>
-
